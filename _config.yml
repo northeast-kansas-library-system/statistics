@@ -33,8 +33,8 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-  [jekyll-remote-theme]
-  
+  - jekyll-remote-theme
+
 remote_theme: carlosperate/jekyll-theme-rtd@v1.0.0
 
 
