@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: Next Search Catalog
+  version: 
   folders:
 
   - title:
@@ -294,4 +294,4 @@ entries:
           url: /tag_troubleshooting.html
           output: web
 
-# Copyright 2021 Google LLC
+# Copyright 2026 Northeast Kansas Library System
